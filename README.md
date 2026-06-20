@@ -5,7 +5,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5a7fb75-2953-46c4-a940-6c696b4b2c57" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89fc5613-f919-491d-b474-36d1a1331695" />
 
-###Note these configs and wallpapers are not all mine, original creator for the quickshell was "Shaiqie" and wallpapers were found from a multitude of sources.
+### Note these configs and wallpapers are not all mine, original creator for the quickshell was "Shaiqie" and wallpapers were found from a multitude of sources.
 
 To install the dotfiles 
 
